@@ -3,6 +3,7 @@
 
     const suma = (a, b) => a + b;
     
-    console.log(suma(1,8));
+    console.log(suma(2,8));
+
 
 })();
